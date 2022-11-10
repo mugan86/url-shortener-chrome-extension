@@ -1,0 +1,11 @@
+{
+    "name": "URL Shortener",
+    "version": "1.0.0",
+    "description": "Generate and Copy to Clipboard create short URL",
+    "manifest_version": 3,
+    "author": "Anartz Mugika Ledo",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "URL Shortener"
+    }
+}
